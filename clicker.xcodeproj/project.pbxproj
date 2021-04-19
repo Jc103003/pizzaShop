@@ -15,6 +15,8 @@
 		A2B1A9DE262DD1DF00C5F9F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2B1A9DC262DD1DF00C5F9F2 /* LaunchScreen.storyboard */; };
 		A2B1A9E9262DD1DF00C5F9F2 /* clickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B1A9E8262DD1DF00C5F9F2 /* clickerTests.swift */; };
 		A2B1A9F4262DD1DF00C5F9F2 /* clickerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B1A9F3262DD1DF00C5F9F2 /* clickerUITests.swift */; };
+		A2B1AA02262DD61E00C5F9F2 /* PizzaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B1AA01262DD61E00C5F9F2 /* PizzaViewController.swift */; };
+		A2B1AA04262DD62A00C5F9F2 /* shopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B1AA03262DD62A00C5F9F2 /* shopViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		A2B1A9EF262DD1DF00C5F9F2 /* clickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = clickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2B1A9F3262DD1DF00C5F9F2 /* clickerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clickerUITests.swift; sourceTree = "<group>"; };
 		A2B1A9F5262DD1DF00C5F9F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2B1AA01262DD61E00C5F9F2 /* PizzaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaViewController.swift; sourceTree = "<group>"; };
+		A2B1AA03262DD62A00C5F9F2 /* shopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shopViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				A2B1A9D3262DD1DB00C5F9F2 /* SceneDelegate.swift */,
 				A2B1A9D5262DD1DB00C5F9F2 /* ViewController.swift */,
 				A2B1A9D7262DD1DB00C5F9F2 /* Main.storyboard */,
+				A2B1AA01262DD61E00C5F9F2 /* PizzaViewController.swift */,
+				A2B1AA03262DD62A00C5F9F2 /* shopViewController.swift */,
 				A2B1A9DA262DD1DF00C5F9F2 /* Assets.xcassets */,
 				A2B1A9DC262DD1DF00C5F9F2 /* LaunchScreen.storyboard */,
 				A2B1A9DF262DD1DF00C5F9F2 /* Info.plist */,
@@ -259,7 +265,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2B1AA04262DD62A00C5F9F2 /* shopViewController.swift in Sources */,
 				A2B1A9D6262DD1DB00C5F9F2 /* ViewController.swift in Sources */,
+				A2B1AA02262DD61E00C5F9F2 /* PizzaViewController.swift in Sources */,
 				A2B1A9D2262DD1DB00C5F9F2 /* AppDelegate.swift in Sources */,
 				A2B1A9D4262DD1DB00C5F9F2 /* SceneDelegate.swift in Sources */,
 			);
