@@ -105,8 +105,8 @@
 			children = (
 				A2B1A9D1262DD1DB00C5F9F2 /* AppDelegate.swift */,
 				A2B1A9D3262DD1DB00C5F9F2 /* SceneDelegate.swift */,
-				A2B1A9D5262DD1DB00C5F9F2 /* ViewController.swift */,
 				A2B1A9D7262DD1DB00C5F9F2 /* Main.storyboard */,
+				A2B1A9D5262DD1DB00C5F9F2 /* ViewController.swift */,
 				A2B1AA01262DD61E00C5F9F2 /* PizzaViewController.swift */,
 				A2B1AA03262DD62A00C5F9F2 /* shopViewController.swift */,
 				A2B1A9DA262DD1DF00C5F9F2 /* Assets.xcassets */,
